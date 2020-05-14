@@ -9,6 +9,6 @@ api: /users/:id     ==> update user
 
 Clone: ``https://github.com/Tan-Canh/golang_api.git``
 
-Add package: ``go get``
+Add package: ``go get ./...``
 
 Run: ``go run main.go``
