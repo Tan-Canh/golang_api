@@ -7,7 +7,7 @@ api: /users/:id     ==> get user by id
 api: /users/:id     ==> update user
 ```
 
-Clone: ``https://github.com/Tan-Canh/golang_api.git``
+Clone: ``git clone https://github.com/Tan-Canh/golang_api.git``
 
 Add package: ``go get ./...``
 
